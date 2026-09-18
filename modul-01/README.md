@@ -16,4 +16,16 @@
 > F = \left( C \times \frac{9}{5} \right) + 32
 
 ## 3. Algorithm
-> Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
+> 1. Mulai
+> 2. Cetak/Print Judul "Program Konversi Suhu"
+> 3. Print "Nama: EAL"
+> 4. Print "NIM: 1306625039"
+> 5. Input "Suhu Awal: ..."
+> 6. Input "Suhu Akhir: ..."
+> 7. Input "Selang: ..."
+> 8. Print "TABEL KONVERSI"
+> 9. Print "TABEL....."
+> 10. Hitung Celcius ke Reamur: 4/5
+> 11. Hitung Celcius ke Fahrenheit: 9/5 + 32
+> 12. Print Hasil
+> 13. Selesai
