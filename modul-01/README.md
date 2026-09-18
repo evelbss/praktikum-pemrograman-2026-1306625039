@@ -26,6 +26,6 @@
 > 8. Print "TABEL KONVERSI"
 > 9. Print "TABEL....."
 > 10. Hitung Celcius ke Reamur: 4/5
-> 11. Hitung Celcius ke Fahrenheit: 9/5 + 32
+> 11. Hitung Celcius ke Fahrenheit:
 > 12. Print Hasil
 > 13. Selesai
