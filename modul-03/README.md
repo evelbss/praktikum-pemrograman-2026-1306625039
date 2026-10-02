@@ -10,11 +10,21 @@
 > Membuat program yang dapat menghitung nilai sinus dan cosinus dari suatu besar sudut dalam derajat menggunakan pendekatan deret McLaurin
 
 ## 2. Mathematical Equation
-> x = \theta \times \frac{\pi}{180}
-> \sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots
-> \cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \cdots
-> ER_{sin} = \left| \frac{AV_{sin} - TV_{sin}}{TV_{sin}} \right| \times 100\%
-> ER_{cos} = \left| \frac{AV_{cos} - TV_{cos}}{TV_{cos}} \right| \times 100\%
+> Konversi Sudut Derajat ke Radian
+  $x = \theta \times \frac{\pi}{180}$
+
+> Deret McLaurin Sinus
+  $\sin(x) = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \cdots$
+
+> Deret McLaurin Cosinus
+  $\cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \cdots$
+
+
+> Relative Error Sinus
+  $ER_{sin} = \left| \frac{AV_{sin} - TV_{sin}}{TV_{sin}} \right| \times 100\%$
+  
+> Relative Error Cosinus
+  $ER_{cos} = \left| \frac{AV_{cos} - TV_{cos}}{TV_{cos}} \right| \times 100\%$
 
 ## 3. Algorithm
 > 1. Print "PROGRAM SINUS-COSINUS"
